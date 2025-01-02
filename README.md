@@ -10,6 +10,9 @@ More will come soon:
 - admin
 - email verification
 - auth providers
+
+Try it out at: supabase-auth-ten.vercel.app/
+
 ------------
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
