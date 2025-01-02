@@ -1,5 +1,17 @@
 # React + Vite
 
+
+
+-----
+
+Small and simple auth system with Supabase.
+
+More will come soon:
+- admin
+- email verification
+- auth providers
+------------
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
